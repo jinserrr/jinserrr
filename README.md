@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2020 - 26 August, 2020
+Week: 20 August, 2020 - 27 August, 2020
 
-Other    36 hrs 42 mins  ████████████████▒░░░░░░░░   65.87 % 
-Kotlin   15 hrs 49 mins  ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-Groovy   2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Python   46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-YAML     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Other        37 hrs 48 mins  █████████████████░░░░░░░░   67.59 % 
+Kotlin       15 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Groovy       2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+YAML         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 <!--END_SECTION:waka-->
