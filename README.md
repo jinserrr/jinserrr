@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2020 - 09 September, 2020
+Week: 03 September, 2020 - 10 September, 2020
 
-Kotlin       12 hrs 6 mins   ████████████████████▒░░░░   81.54 % 
-Python       1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other        1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Groovy       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Kotlin       12 hrs 30 mins  ████████████████████▓░░░░   82.94 % 
+Python       1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Groovy       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
