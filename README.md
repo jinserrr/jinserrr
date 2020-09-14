@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
-Kotlin       12 hrs 39 mins  █████████████████████░░░░   83.53 % 
-Rust         1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Other        46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Kotlin       10 hrs 16 mins  ███████████████▒░░░░░░░░░   60.95 % 
+Rust         4 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Other        1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
