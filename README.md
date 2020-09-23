@@ -14,3 +14,6 @@ TeX          9 mins          ▓░░░░░░░░░░░░░░░░
 Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 <!--END_SECTION:waka-->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinserrr)](https://github.com/anuraghazra/github-readme-stats)
