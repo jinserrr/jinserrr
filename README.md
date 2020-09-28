@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2020 - 26 September, 2020
+Week: 20 September, 2020 - 27 September, 2020
 
-Rust     6 hrs 10 mins   ███████████████▒░░░░░░░░░   61.02 % 
-Other    3 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.95 % 
-Kotlin   30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Groovy   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-YAML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Rust     6 hrs 22 mins   █████████████░░░░░░░░░░░░   52.42 % 
+Other    4 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.64 % 
+TeX      45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Kotlin   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Groovy   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
 
