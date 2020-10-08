@@ -5,12 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-Rust     9 hrs 7 mins    ████████████████████▓░░░░   82.10 % 
-Other    1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-YAML     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Rust       8 hrs 22 mins   █████████████▓░░░░░░░░░░░   55.17 % 
+Python     4 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Other      2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+YAML       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 <!--END_SECTION:waka-->
 
