@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-Python     5 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.96 % 
-Rust       1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Other      1 hr 28 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-RPMSpec    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python     5 hrs 12 mins   ███████████████▓░░░░░░░░░   63.03 % 
+Other      2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Rust       32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+RPMSpec    16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 
