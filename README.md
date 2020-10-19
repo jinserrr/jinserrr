@@ -5,11 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2020 - 17 October, 2020
+Week: 11 October, 2020 - 18 October, 2020
 
-Other   1 hr 3 mins     ████████████████████████░   95.88 % 
-C++     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Text    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other   5 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
