@@ -5,10 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
-Python   18 mins         ███████████████████▓░░░░░   78.44 % 
-Other    5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.56 % 
+Python   18 mins         ████████████████████████░   95.83 % 
 ```
 <!--END_SECTION:waka-->
 
