@@ -5,13 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
-Kotlin   3 hrs 1 min     ██████████████████░░░░░░░   71.71 % 
-Other    1 hr            ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Python   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Scheme   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Rust     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Other    28 mins         ██████████████████████▒░░   88.83 % 
+Scheme   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 <!--END_SECTION:waka-->
 
