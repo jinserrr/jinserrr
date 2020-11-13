@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
 Kotlin   2 hrs 5 mins    █████████████████████▒░░░   84.81 % 
 Other    22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 % 
