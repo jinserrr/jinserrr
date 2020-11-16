@@ -5,11 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 November, 2020 - 14 November, 2020
+Week: 08 November, 2020 - 15 November, 2020
 
-Kotlin    4 hrs 7 mins    █████████████████████▒░░░   85.63 % 
-Other     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-SQL       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Kotlin    9 hrs 1 min     ██████████████████████▓░░   90.07 % 
+Other     39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+SQL       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 <!--END_SECTION:waka-->
 
