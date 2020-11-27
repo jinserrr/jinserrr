@@ -5,13 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2020 - 25 November, 2020
+Week: 19 November, 2020 - 26 November, 2020
 
-Other     2 hrs 40 mins   ██████████████████░░░░░░░   72.52 % 
-Kotlin    36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Haskell   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-JSON      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Rust      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Other     1 hr 41 mins    ██████████████████░░░░░░░   72.59 % 
+Kotlin    36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.24 % 
 ```
 <!--END_SECTION:waka-->
 
