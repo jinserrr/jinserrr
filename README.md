@@ -5,9 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2020 - 02 December, 2020
+Week: 26 November, 2020 - 03 December, 2020
 
-JSON     4 mins          █████████████████████████   100.00 % 
+Rust     1 hr 12 mins    ███████████████████▓░░░░░   78.51 % 
+sh       12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+JSON     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 
