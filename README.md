@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2020 - 08 December, 2020
+Week: 02 December, 2020 - 09 December, 2020
 
 Rust     7 hrs 3 mins    ███████████████████████░░   91.70 % 
 Kotlin   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
