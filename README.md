@@ -5,12 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
-Rust     3 hrs 22 mins   ██████████████████████▒░░   89.84 % 
-Kotlin   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-VimL     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Rust    1 hr 49 mins    ███████████████████████▓░   94.43 % 
+VimL    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 <!--END_SECTION:waka-->
 
