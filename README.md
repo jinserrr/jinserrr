@@ -5,11 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2020 - 12 December, 2020
+Week: 06 December, 2020 - 13 December, 2020
 
-Rust    1 hr 49 mins    ███████████████████████▓░   94.43 % 
-VimL    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Rust    9 mins          ██████████████████████▒░░   89.92 % 
+Other   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 ```
 <!--END_SECTION:waka-->
 
