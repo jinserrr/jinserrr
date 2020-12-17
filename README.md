@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
 Rust    9 mins          ██████████████████████▒░░   89.92 % 
 Other   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
