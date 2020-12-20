@@ -5,10 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
-Rust    9 mins          ██████████████████████▒░░   89.92 % 
-Other   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Rust     3 hrs 37 mins   █████████████████████▓░░░   86.71 % 
+Python   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+C        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Kotlin   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 <!--END_SECTION:waka-->
 
