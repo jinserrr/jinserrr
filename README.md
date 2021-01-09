@@ -5,11 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2020 - 07 January, 2021
+Week: 01 January, 2021 - 08 January, 2021
 
-Rust       8 hrs 19 mins   ████████████████████████▓   98.39 % 
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Rust       9 hrs 54 mins   ████████████████████████▓   98.65 % 
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
 
