@@ -5,11 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
-Rust    10 hrs 30 mins  ████████████████████████▒   97.94 % 
-VimL    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Other   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Rust    10 hrs 2 mins   ████████████████████████▒   97.61 % 
+VimL    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
 
