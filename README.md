@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2021 - 10 January, 2021
+Week: 04 January, 2021 - 11 January, 2021
 
 Rust    10 hrs 2 mins   ████████████████████████▒   97.61 % 
 VimL    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
