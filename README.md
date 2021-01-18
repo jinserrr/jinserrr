@@ -5,10 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
-Rust    6 hrs 16 mins   ████████████████████████▒   97.95 % 
-Other   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Rust    3 hrs 58 mins   █████████████████████████   99.61 % 
 ```
 <!--END_SECTION:waka-->
 
