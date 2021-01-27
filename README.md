@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 Rust    4 hrs 29 mins   ██████████████████████▓░░   91.03 % 
 VimL    12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
