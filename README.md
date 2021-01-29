@@ -5,11 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
-Rust    4 hrs 14 mins   ███████████████████████▓░   94.63 % 
-YAML    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Other   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Rust         4 hrs 14 mins   ██████████████████▒░░░░░░   73.77 % 
+Kotlin       1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+YAML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 <!--END_SECTION:waka-->
 
