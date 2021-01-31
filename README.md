@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2021 - 29 January, 2021
+Week: 23 January, 2021 - 30 January, 2021
 
-Rust         4 hrs 6 mins    ████████████████░░░░░░░░░   64.32 % 
-Kotlin       1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.30 % 
-Properties   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-XML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Rust         2 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   47.12 % 
+Kotlin       2 hrs 42 mins   ███████████░░░░░░░░░░░░░░   44.01 % 
+Properties   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+XML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
 
