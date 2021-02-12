@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
-Kotlin     7 hrs 34 mins   ██████████████████████▒░░   89.53 % 
-Python     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Bash       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Kotlin     5 hrs 11 mins   ███████████████████▒░░░░░   77.10 % 
+Rust       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Python     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
 
