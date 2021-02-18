@@ -5,12 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 February, 2021 - 16 February, 2021
+Week: 10 February, 2021 - 17 February, 2021
 
-Rust     51 mins         █████████████████████░░░░   83.47 % 
-Text     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-Python   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Rust    19 mins         █████████████████████▓░░░   87.25 % 
+Other   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 <!--END_SECTION:waka-->
 
