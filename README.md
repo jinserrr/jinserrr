@@ -5,10 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2021 - 20 February, 2021
-
-Rust    19 mins         █████████████████████▓░░░   87.25 % 
-Other   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
