@@ -5,7 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 February, 2021 - 23 February, 2021
+
+Kotlin       1 hr 24 mins    ███████████████████████▓░   94.81 % 
+Groovy       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 <!--END_SECTION:waka-->
 
