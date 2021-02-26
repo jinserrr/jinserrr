@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
-Kotlin       1 hr 24 mins    ███████████████████████▓░   94.81 % 
-Groovy       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Kotlin       1 hr 24 mins    ████████████████████▒░░░░   81.20 % 
+Groovy       19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 <!--END_SECTION:waka-->
 
