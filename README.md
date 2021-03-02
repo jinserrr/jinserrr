@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2021 - 28 February, 2021
+Week: 22 February, 2021 - 01 March, 2021
 
-Kotlin     4 hrs 53 mins   ███████████▓░░░░░░░░░░░░░   46.28 % 
-Rust       2 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-VimL       52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Groovy     51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Markdown   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Kotlin     4 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   45.29 % 
+Rust       3 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.86 % 
+VimL       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Groovy     51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Markdown   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
 
