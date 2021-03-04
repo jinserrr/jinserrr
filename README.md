@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 February, 2021 - 02 March, 2021
+Week: 24 February, 2021 - 03 March, 2021
 
 Rust       4 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.87 % 
 Kotlin     3 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.62 % 
