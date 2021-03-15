@@ -5,11 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
-Kotlin     1 hr 12 mins    ████████████████████▒░░░░   81.16 % 
-Rust       15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
-YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Rust   15 mins         ███████████████████████▒░   93.59 % 
+YAML   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 <!--END_SECTION:waka-->
 
