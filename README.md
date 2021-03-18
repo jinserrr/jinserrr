@@ -5,9 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 March, 2021 - 16 March, 2021
+Week: 10 March, 2021 - 17 March, 2021
 
-YAML   1 min           █████████████████████████   100.00 % 
+Kotlin   20 mins         ███████████████████████▓░   95.15 % 
+YAML     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 <!--END_SECTION:waka-->
 
