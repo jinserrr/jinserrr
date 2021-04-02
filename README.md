@@ -5,13 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-Python       8 hrs 16 mins   ███████████████████████▓░   95.21 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-PowerShell   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-VimL         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python   5 hrs 10 mins   ████████████████████████▒   96.98 % 
+JSON     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 ```
 <!--END_SECTION:waka-->
 
