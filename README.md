@@ -5,11 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 March, 2021 - 03 April, 2021
+Week: 28 March, 2021 - 04 April, 2021
 
-Python   3 hrs 21 mins   ███████████████████████░░   92.45 % 
-JSON     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Kotlin   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Python   35 mins         █████████████████████░░░░   83.94 % 
+Kotlin   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 <!--END_SECTION:waka-->
 
