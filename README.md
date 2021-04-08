@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 March, 2021 - 06 April, 2021
+Week: 31 March, 2021 - 07 April, 2021
 
-Python   35 mins         █████████████████████░░░░   83.94 % 
-Kotlin   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Kotlin   6 mins          ███████████████████▓░░░░░   78.50 % 
+Bash     1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.50 % 
 ```
 <!--END_SECTION:waka-->
 
