@@ -5,10 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 April, 2021 - 15 April, 2021
+Week: 09 April, 2021 - 16 April, 2021
 
-VimL         7 mins          █████████████████░░░░░░░░   68.02 % 
-Racket       2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 % 
+
 ```
 <!--END_SECTION:waka-->
 
