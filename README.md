@@ -5,9 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 April, 2021 - 21 April, 2021
+Week: 15 April, 2021 - 22 April, 2021
 
-
+Python   34 mins         █████████▓░░░░░░░░░░░░░░░   38.06 % 
+Racket   33 mins         █████████░░░░░░░░░░░░░░░░   36.11 % 
+VimL     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Rust     11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 ```
 <!--END_SECTION:waka-->
 
