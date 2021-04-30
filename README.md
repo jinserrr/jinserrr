@@ -5,13 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-JavaScript   5 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   47.16 % 
-Python       3 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
-Racket       33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Rust         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Markdown     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+JavaScript   5 hrs 2 mins    █████████████▓░░░░░░░░░░░   54.99 % 
+Python       2 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Markdown     31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Rust         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 <!--END_SECTION:waka-->
 
