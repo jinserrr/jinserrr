@@ -5,13 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 May, 2021 - 08 May, 2021
+Week: 02 May, 2021 - 09 May, 2021
 
-Batchfile          25 mins         ███████▓░░░░░░░░░░░░░░░░░   31.22 % 
-Other              23 mins         ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Python             18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
-reStructuredText   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Bash               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Batchfile          25 mins         ██████████░░░░░░░░░░░░░░░   40.66 % 
+Other              23 mins         █████████▒░░░░░░░░░░░░░░░   36.79 % 
+reStructuredText   12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Bash               1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
 
