@@ -5,9 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
-Batchfile   15 mins         █████████████████████████   100.00 % 
+Batchfile   15 mins         ████████████████▒░░░░░░░░   65.86 % 
+Java        8 mins          ████████▓░░░░░░░░░░░░░░░░   34.04 % 
 ```
 <!--END_SECTION:waka-->
 
