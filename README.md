@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 May, 2021 - 18 May, 2021
+Week: 12 May, 2021 - 19 May, 2021
 
 Rust    1 hr 15 mins    ████████████████████████░   95.65 % 
 Other   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
