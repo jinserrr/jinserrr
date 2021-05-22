@@ -5,10 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 May, 2021 - 20 May, 2021
-
-Rust    1 hr 15 mins    ████████████████████████░   95.65 % 
-Other   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
