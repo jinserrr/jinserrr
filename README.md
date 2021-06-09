@@ -5,7 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 June, 2021 - 08 June, 2021
+
+Rust     46 mins         ███████▓░░░░░░░░░░░░░░░░░   30.34 % 
+Python   29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Kotlin   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+JSON     21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Java     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
 ```
 <!--END_SECTION:waka-->
 
