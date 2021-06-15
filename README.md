@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 June, 2021 - 13 June, 2021
+Week: 07 June, 2021 - 14 June, 2021
 
 Kotlin   3 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.73 % 
 Rust     2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.15 % 
