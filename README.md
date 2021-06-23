@@ -5,10 +5,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 June, 2021 - 21 June, 2021
+Week: 15 June, 2021 - 22 June, 2021
 
-Kotlin       6 hrs 11 mins   ████████████████████████▓   98.31 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Kotlin       6 hrs 11 mins   █████████████████░░░░░░░░   68.31 % 
+Other        2 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 <!--END_SECTION:waka-->
 
