@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 June, 2021 - 26 June, 2021
+Week: 21 June, 2021 - 27 June, 2021
 
 Other    2 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.67 % 
 Rust     1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.07 % 
