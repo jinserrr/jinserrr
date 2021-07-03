@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2021 - 01 July, 2021
+Week: 26 June, 2021 - 02 July, 2021
 
-Rust    1 hr 18 mins    ████████████████████░░░░░   80.01 % 
-Other   19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Rust    50 mins         ██████████████████▓░░░░░░   74.80 % 
+Other   17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
 ```
 <!--END_SECTION:waka-->
 
